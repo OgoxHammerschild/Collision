@@ -1,5 +1,3 @@
-
-
 # Collision Manager for the MonoGame-Framework (C#)
 
 I made a CollisionManager and a BoxCollider2D for my sidescroller in MonoGame. The CollisionManager checks all colliders against each other. The BoxCollider2D keeps the logic for checking whether he collides with a given collider.
@@ -72,6 +70,9 @@ namespace MonoGamePortal3Practise
 ```
 
 ## Box Collider 2D for the MonoGame-Framework (C#)
+
+The BoxCollider2D is a rectangle that can check whether it intersects/collides with another rectangle on the screen. A respective CollisionEvent will be fired when a collison is entered, when it stays and when it's exited.    
+There are also functions to determine the direction of the collision.   
 
 ```c#
 // Copyright (c) 2016 Daniel Bortfeld
