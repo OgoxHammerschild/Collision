@@ -215,7 +215,8 @@ namespace MonoGamePortal3Practise
 
 Further readings:    
 
-* [Back to Main Page](https://ogoxhammerschild.github.io/)    
+* [Dynamic Delegate](https://ogoxhammerschild.github.io/)   
+* [Component System](https://ogoxhammerschild.github.io/#Component_System)   
 * [Unreal Examples](https://ogoxhammerschild.github.io/Unreal-Examples/)   
 
 ***    
