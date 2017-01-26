@@ -1,3 +1,18 @@
+[Back to Main Page](https://ogoxhammerschild.github.io/)
+
+# Content    
+    
++ [Collision Manager for the MonoGame-Framework (C#)](#Collision_Manager)    
++ [Box Collider 2D for the MonoGame-Framework (C#)](#Box_Collider_2D)    
+
+***    
+
+// TODO: video
+
+***   
+
+<a name="Collision_Manager"/>
+
 # Collision Manager for the MonoGame-Framework (C#)
 
 I made a CollisionManager and a BoxCollider2D for my sidescroller in MonoGame. The CollisionManager checks all colliders against each other. The BoxCollider2D keeps the logic for checking whether he collides with a given collider.
@@ -68,6 +83,11 @@ namespace MonoGamePortal3Practise
     }
 }
 ```
+
+
+***    
+
+<a name="Box_Collider_2D"/>
 
 ## Box Collider 2D for the MonoGame-Framework (C#)
 
@@ -189,3 +209,13 @@ namespace MonoGamePortal3Practise
     }
 }
 ```
+
+
+***    
+
+Further readings:    
+
+* [Back to Main Page](https://ogoxhammerschild.github.io/)    
+* [Unreal Examples](https://ogoxhammerschild.github.io/Unreal-Examples/)   
+
+***    
