@@ -6,9 +6,7 @@
 + [Box Collider 2D for the MonoGame-Framework (C#)](#Box_Collider_2D)    
 
 ***   
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gipEGtH6bFE" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gipEGtH6bFE" frameborder="0" allowfullscreen></iframe>    
 ***   
 
 <a name="Collision_Manager"/>
