@@ -7,9 +7,6 @@
 
 ***   
 
-CollisionManager and BoxCollider2D in action (click image):
-[![Video](http://img.youtube.com/vi/gipEGtH6bFE/0.jpg)](http://www.youtube.com/watch?v=gipEGtH6bFE)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gipEGtH6bFE" frameborder="0" allowfullscreen></iframe>
 
 ***   
