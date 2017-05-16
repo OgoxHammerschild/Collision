@@ -6,7 +6,7 @@
 + [Box Collider 2D for the MonoGame-Framework (C#)](#Box_Collider_2D)    
 
 ***   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gipEGtH6bFE" frameborder="0" allowfullscreen></iframe>    
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gipEGtH6bFE?rel=0" frameborder="0" allowfullscreen></iframe>    
 ***   
 
 <a name="Collision_Manager"/>
@@ -213,6 +213,7 @@ namespace MonoGamePortal3Practise
 
 Further readings:    
 
+* [Etos Videos](https://ogoxhammerschild.github.io/Etos/)    
 * [Dynamic Delegate (C++)](https://ogoxhammerschild.github.io/)   
 * [Component System (C++)](https://ogoxhammerschild.github.io/#Component_System)   
 * [Unreal Examples (C++)](https://ogoxhammerschild.github.io/Unreal-Examples/)   
