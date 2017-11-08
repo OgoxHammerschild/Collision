@@ -211,12 +211,10 @@ namespace MonoGamePortal3Practise
 
 ***    
 
-Further readings:    
+Further pages:    
 
 * [Etos Videos](https://ogoxhammerschild.github.io/Etos/)    
-* [Dynamic Delegate (C++)](https://ogoxhammerschild.github.io/)   
-* [Component System (C++)](https://ogoxhammerschild.github.io/#Component_System)   
-* [Unreal Examples (C++)](https://ogoxhammerschild.github.io/Unreal-Examples/)   
 * [Pathfinding in the Console (C++)](https://ogoxhammerschild.github.io/Console-Pathfinding/)    
+* [Dynamic Delegate (C++)](https://ogoxhammerschild.github.io/DynamicDelegate/)     
 
 ***    
