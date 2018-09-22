@@ -1,9 +1,8 @@
 ﻿// Copyright (c) 2016 Daniel Bortfeld
 using Microsoft.Xna.Framework;
-using System;
 using System.Collections.Generic;
 
-namespace MonoGamePortal3Practise
+namespace Collision_MonoGame
 {
     public static class CollisionManager
     {

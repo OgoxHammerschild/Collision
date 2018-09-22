@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework;
 using System;
 using System.Collections.Generic;
 
-namespace MonoGamePortal3Practise
+namespace Collision_MonoGame
 {
     public class BoxCollider
     {
@@ -60,10 +60,10 @@ namespace MonoGamePortal3Practise
         /// <summary>
         /// The GameObject the BoxCollider is attached to
         /// </summary>
-        public GameObject GameObject { get; private set; }
+        public GameObject_Dummy GameObject { get; private set; }
 
         // Constructor
-        public BoxCollider(GameObject gameObject, int width, int height, bool isTrigger)
+        public BoxCollider(GameObject_Dummy gameObject, int width, int height, bool isTrigger)
         {
             GameObject = gameObject;
             X = (int)GameObject.Position.X;
@@ -86,9 +86,9 @@ namespace MonoGamePortal3Practise
                 return;
 
             /// center the collider to the middle of the <"SpriteRect">
-            if (GameObject is Entity && ((Entity)GameObject).SpriteRect != Rectangle.Empty)
+            if (GameObject is Entity_Dummy && ((Entity_Dummy)GameObject).SpriteRect != Rectangle.Empty)
             {
-                Center = ((Entity)GameObject).Center;
+                Center = ((Entity_Dummy)GameObject).Center;
             }
             else
             {
